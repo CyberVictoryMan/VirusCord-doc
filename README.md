@@ -7,4 +7,6 @@ Well the name is a bit scary but it is just a game dont worry. It like a simulat
 ## Note
 * The Bot is under development dont be happy tht the bot is already done ;-;
 
+## Contents
+* [Types of Viruses](content/TOV.md)
 ```DISCLAIMER: THIS IS NOT A VIRUS OR HACK ACCOUNT. THIS IS JUST A GAME.```
