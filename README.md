@@ -10,5 +10,5 @@ Well the name is a bit scary but it is just a game dont worry. It like a simulat
 ```DISCLAIMER: THIS IS NOT A VIRUS OR HACK ACCOUNT. THIS IS JUST A GAME.```
 
 ## Contents
-* [Types of Viruses](content/TOV.md)
+* [Types of Viruses](contents/TOV.md)
 
